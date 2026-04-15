@@ -20,6 +20,11 @@
 - [ ] **Weighted Forecast Audit:** Comparing Actual vs. Predicted revenue logic.
 - [ ] **Handoff Logic Validation:** Auditing Lifecycle Stage triggers.
 
+- [ ] ## VI. Breeze AI & Outcome-Based Billing Audit (Added April 15, 2026)
+- [ ] **Resolution Trigger Audit:** Verifying that 'Resolution' is only triggered by customer affirmation to prevent ghost-billing.
+- [ ] **Turn-Limit Guardrails:** Hard-coding human hand-offs after 5 conversational turns to preserve credits.
+- [ ] **Autonomous Agent Review:** Switching 'Content' and 'Prospecting' agents to 'Review Required' to control spend.
+
 ## V. Governance & Compliance
 - [ ] **Principle of Least Privilege:** Deactivating users with 60+ days of inactivity.
 - [ ] **API Sync Error Resolution:** Clearing 100% of high-priority sync errors.
