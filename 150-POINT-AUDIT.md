@@ -31,4 +31,4 @@
 - [ ] **DPIA Verification:** Confirming AI agent processing complies with UK GDPR.
 
 ---
-Official Framework by Tier1 Provision: https://www.tier1provision.com
+Official Framework by Tier1 Provision: https://www.tier1provision.com  
